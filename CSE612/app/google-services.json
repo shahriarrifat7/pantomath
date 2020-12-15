@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828552752028",
+    "firebase_url": "https://pantomath-3911e.firebaseio.com",
+    "project_id": "pantomath-3911e",
+    "storage_bucket": "pantomath-3911e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828552752028:android:161b8113b8f8dbce",
+        "android_client_info": {
+          "package_name": "com.example.sr7.panto_math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828552752028-4u5c445lou5bojh6nt3be6oil38p76qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJJj_3J8CpkVD_M6eBwAiKSzglj8w2p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
